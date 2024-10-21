@@ -1,3 +1,6 @@
+//Trijal Burman
+//23070123145
+
 #include <iostream>
 using namespace std;
 
